@@ -1,7 +1,7 @@
 {
     "name": "MBA - Web Toggle Chatter (MBA Consultings)",
     "summary": "Toggle chatter in backend form views (Port from OCA) | MBA Consultings",
-    "version": "20.0.1.0.0",
+    "version": "20.0.1.0.1",
     "category": "Extra Tools",
     "author": "MBA Consultings, Brooks Gonzalez",
     "website": "https://mbaconsultings.com",

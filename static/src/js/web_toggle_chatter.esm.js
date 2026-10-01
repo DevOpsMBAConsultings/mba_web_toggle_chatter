@@ -88,7 +88,7 @@ patch(FormRenderer.prototype, {
     setup() {
         super.setup();
         this.webToggleChatterState = proxy({
-            isVisible: true,
+            isVisible: false,
         });
         this._onViewportChange = this._onViewportChange.bind(this);
         this.onToggleChatter = this.onToggleChatter.bind(this);
